@@ -47,4 +47,4 @@ As the **Solution Architect and Team Lead**, I:
 - ⚙️ Triggers GitHub Actions to validate the integration
 - 📨 Notifies repo owners and tracks status for compliance
 
-📘 **For the full architecture and implementation**, see [DETAILS.md](./DETAILS.md)
+📘 **For the full architecture and implementation**, see [DETAILS.md]()
