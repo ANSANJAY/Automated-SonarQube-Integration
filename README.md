@@ -48,3 +48,11 @@ As the **Solution Architect and Team Lead**, I:
 - 📨 Notifies repo owners and tracks status for compliance
 
 📘 **For the full architecture and implementation**, see [DETAILS.md]()
+
+
+## 📈 Impact
+
+- Automated onboarding for **300+ repositories**
+- Reduced manual effort by **90%**
+- Accelerated code quality adoption across teams
+- Enabled visibility into repo compliance via dashboards
