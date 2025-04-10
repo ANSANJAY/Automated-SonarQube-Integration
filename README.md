@@ -46,6 +46,9 @@ As the **Solution Architect and Team Lead**, I:
 - 🤖 Uses GitHub CLI to raise a pull request
 - ⚙️ Triggers GitHub Actions to validate the integration
 - 📨 Notifies repo owners and tracks status for compliance
+- 🗃️ Logs repository metadata, PR status, and SonarQube results into MySQL
+- 🧾 Tracks PR merged state, deleted/archived repos, and compliance dashboards
+
 
 📘 **For the full architecture and implementation**, see [DETAILS.md]()
 
