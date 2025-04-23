@@ -37,3 +37,14 @@ As the **Solution Architect and Team Lead**, I:
 - **CI/CD**: SonarQube, Jenkins
 - **Scripting & Automation**: Custom CLI wrappers, GitHub workflows
 - **Monitoring**: Scripted checks for PR status, repo coverage compliance
+
+## 🔄 How the Automation Works (Quick Summary)
+
+- ✅ Detects programming language and build tool for each repo (e.g., Java + Maven)
+- 🛠️ Checks if the repo is already onboarded to SonarQube
+- 📄 Injects `sonar-project.properties` and workflow YAML files
+- 🤖 Uses GitHub CLI to raise a pull request
+- ⚙️ Triggers GitHub Actions to validate the integration
+- 📨 Notifies repo owners and tracks status for compliance
+
+📘 **For the full architecture and implementation**, see [DETAILS.md](./DETAILS.md)
